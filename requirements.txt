@@ -33,7 +33,6 @@ Foundation==0.1.0a0.dev1
 fqdn==1.5.1
 fsspec==2022.11.0
 genapi==0.0.8
-gevent_socketio==0.3.6
 gitdb_speedups==0.1.0
 google_api_python_client==2.71.0
 grpc_reflection==1.0.0
