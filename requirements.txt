@@ -12,7 +12,6 @@ brotli==1.0.9
 brotlicffi==1.0.9.2
 cftime==1.6.2
 chart_studio==1.1.0
-Cheetah==2.4.4
 cherrypy==18.8.0
 cloud_tpu_client==0.10
 cloudpickle==2.2.0
