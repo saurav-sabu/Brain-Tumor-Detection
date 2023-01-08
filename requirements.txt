@@ -21,7 +21,6 @@ cryptography==39.0.0
 cycler==0.10.0
 Cython==0.29.33
 cytoolz==0.12.1
-dask==2022.12.1
 defusedxml==0.6.0
 diesel==3.0.24
 dill==0.3.6
